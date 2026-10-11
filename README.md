@@ -1,9 +1,9 @@
 # ROM Hack Cartridge Labels
 This repository hosts labels for cartridges that I have made. Not all labels were made by me and I will do my best to credit the artists as I can. 
 
-Credits to Oom, yosoo5000, Jaizu, PacoScarso, PurrfectDoodle, and Phantonomy for Label art. 
+Credits to Oom, yosoo5000, Jaizu, PacoScarso, PurrfectDoodle, Phantonomy, and Replay Modding for label art. 
 
-If I missed credit for anything, please reach out So I can properly credit you.
+If I missed credit for anything, please reach out so I can properly credit you.
 
 <p align="center">
 
@@ -48,5 +48,24 @@ If I missed credit for anything, please reach out So I can properly credit you.
 <img src="saiph2%20label.png" width="200">
 <img src="sors2%20labl.png" width="200">
 <img src="transform_label.png" width="200">
+<img src="Elite%20Redux.png" width="200">
+<img src="Emerald%20Legacy.png" width="200">
+<img src="Emerald%20Seaglass.png" width="200">
+<img src="Emerald.png" width="200">
+<img src="FIRERED.png" width="200">
+<img src="GAIA.png" width="200">
+<img src="Imperium%20Emerald.png" width="200">
+<img src="LeafGreen.png" width="200">
+<img src="Liquid%20Crystal.png" width="200">
+<img src="Radical%20Red.png" width="200">
+<img src="Recharged%20Emerald.png" width="200">
+<img src="Recharged%20Yellow.png" width="200">
+<img src="Ruby.png" width="200">
+<img src="SAIPH.png" width="200">
+<img src="SAIPH2.png" width="200">
+<img src="Sapphire.png" width="200">
+<img src="Scorched%20Silver.png" width="200">
+<img src="Unbound.png" width="200">
+
 
 </p>
