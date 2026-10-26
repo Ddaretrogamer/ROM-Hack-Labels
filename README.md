@@ -1,7 +1,7 @@
 # ROM Hack Cartridge Labels
 This repository hosts labels for cartridges that I have made. Not all labels were made by me and I will do my best to credit the artists as I can. 
 
-Credits to Oom, yosoo5000, Jaizu, PacoScarso, PurrfectDoodle, Phantonomy, and Replay Modding for label art. 
+Credits to Oom, yosoo5000, Jaizu, PacoScarso, PurrfectDoodle, Phantonomy, Replay Modding, and [BearlyApple](https://ibb.co/album/jkr17z) for label art. 
 
 If I missed credit for anything, please reach out so I can properly credit you.
 
@@ -65,7 +65,35 @@ If I missed credit for anything, please reach out so I can properly credit you.
 <img src="SAIPH2.png" width="200">
 <img src="Sapphire.png" width="200">
 <img src="Scorched%20Silver.png" width="200">
-<img src="Unbound.png" width="200">
-
+<img src="Celia-s-Stupid-Romhack.png" width="200">
+<img src="IMG-2028.png" width="200">
+<img src="Pok-mon-Advanced-Adventure-Version.png" width="200">
+<img src="Pok-mon-Aesthetic-Red-Version.png" width="200">
+<img src="Pok-mon-Alte-Red-Version.png" width="200">
+<img src="Pok-mon-Amethyst-Version.png" width="200">
+<img src="Pok-mon-Classic-Version.png" width="200">
+<img src="Pok-mon-Crippling-Medical-Debt.png" width="200">
+<img src="Pok-mon-Emerald-Legacy.png" width="200">
+<img src="Pok-mon-Fire-Red-Leaf-Green-Plus-Version.png" width="200">
+<img src="Pok-mon-Fire-of-Sky.png" width="200">
+<img src="Pok-mon-Ghost-Grey-Version-White-Text.png" width="200">
+<img src="Pok-mon-Ghost-Grey-Version.png" width="200">
+<img src="Pok-mon-Heart-and-Soul-Version.png" width="200">
+<img src="Pok-mon-Hearth.png" width="200">
+<img src="Pok-mon-Homestead.png" width="200">
+<img src="Pok-mon-Let-s-Go-Eevee-Version.png" width="200">
+<img src="Pok-mon-Let-s-Go-Pikachu-Version.png" width="200">
+<img src="Pok-mon-Sirius-Version.png" width="200">
+<img src="Pok-mon-Soul-Gold-Version.png" width="200">
+<img src="Pok-mon-Too-Many-Types-2.png" width="200">
+<img src="Pok-mon-Too-Many-Types.png" width="200">
+<img src="Pok-mon-Ultra-Eclipse-Version-Gen-3-Style-Label.png" width="200">
+<img src="Pok-mon-Ultra-Eclipse-Version.png" width="200">
+<img src="Pok-mon-Ultra-Violet-Version-png.png" width="200">
+<img src="Pok-mon-Unbound-Version.png" width="200">
+<img src="Pok-mon-Unbound.png" width="200">
+<img src="Pok-mon-Vega-Version.png" width="200">
+<img src="Pok-mon-Wild-Indigo-Version (1).png" width="200">
+<img src="Pok-mon-Wild-Indigo-Version.png" width="200">
 
 </p>
